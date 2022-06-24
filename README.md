@@ -1,3 +1,7 @@
+# Notes
+
+- uses [date-fns](https://www.npmjs.com/package/date-fns) package for manipulating dates (npm install date-fns --save)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
