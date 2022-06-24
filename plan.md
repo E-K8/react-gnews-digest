@@ -1,0 +1,7 @@
+- deploy
+- adjust styles
+- introduce featured article
+- remove duplicates from fetched articles
+- return results in English only
+- add sub-header with articles topics
+- split into components

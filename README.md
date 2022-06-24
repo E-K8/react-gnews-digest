@@ -1,6 +1,7 @@
 # Notes
 
 - uses [date-fns](https://www.npmjs.com/package/date-fns) package for manipulating dates (npm install date-fns --save)
+- uses [GNews](https://gnews.io/docs/v4#introduction) API. Dev [dashboard](https://gnews.io/docs/v4#introduction).
 
 # Getting Started with Create React App
 
