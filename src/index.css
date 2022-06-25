@@ -80,6 +80,10 @@ button:hover {
   color: #02203e;
 }
 
+button:focus {
+  border-color: #fff;
+}
+
 .spinner {
   width: 5rem;
   height: 5rem;
