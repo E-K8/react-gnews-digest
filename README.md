@@ -1,9 +1,20 @@
-# Notes
+# NEWS FETCHING APP
 
-- uses [date-fns](https://www.npmjs.com/package/date-fns) package for manipulating dates (npm install date-fns --save)
+## [Live website](https://gnews-digest.netlify.app/)
+
+## Notes
+
 - uses [GNews](https://gnews.io/docs/v4#introduction) API. Dev [dashboard](https://gnews.io/docs/v4#introduction).
+- uses [date-fns](https://www.npmjs.com/package/date-fns) package for manipulating dates (npm install date-fns --save)
+- tbc, I have some [improvements](https://github.com/E-K8/react-gnews-digest/blob/main/plan.md) in mind
 
-# Getting Started with Create React App
+---
+
+---
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
